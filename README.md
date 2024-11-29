@@ -8,7 +8,13 @@ Aplikasi untuk memudahkan pengguna menemukan restaurant terbaik sesuai dengan pr
 - favorite restaurant
 - search restaurant
 - theme mode app
-- notification 
+- notification
+  
+## Preview app
+![SplashScreen](https://drive.google.com/uc?export=view&id=1peyA_Vr5RmfjIe-BItNJ43Cbl7p29ruu)<br><br>
+![FavoriteScreen](https://drive.google.com/uc?export=view&id=1oobty3BxiYuGdz3IcwzXrklFLsH0pD7Z)<br><br>
+![SearchScreen](https://drive.google.com/uc?export=view&id=1dgPBd5tWepUJOLCKDWNJOTtdHBDG1Nkc)<br><br>
+![SettingScreen](https://drive.google.com/uc?export=view&id=1nJUtwIwI-OTfbRL4ePwl-NF3T9Hz2Qno)<br><br>
 
 ## Getting Started
 
