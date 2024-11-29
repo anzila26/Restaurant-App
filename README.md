@@ -1,5 +1,14 @@
 # Restaurant-App
-Aplikasi untuk memudahkan pengguna menemukan restoran terbaik sesuai dengan preferensinya
+Aplikasi untuk memudahkan pengguna menemukan restaurant terbaik sesuai dengan preferensinya
+
+## Fitur yang dimiliki
+- list restaurant
+- deskripsi restaurant
+- menu restaurant
+- favorite restaurant
+- search restaurant
+- theme mode app
+- notification 
 
 ## Getting Started
 
