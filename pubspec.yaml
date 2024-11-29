@@ -1,0 +1,77 @@
+name: restaurant_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.3 <=4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.2.1
+
+  cupertino_icons: ^1.0.8
+
+  provider: ^6.1.1
+
+  http: ^1.2.0
+
+  sqflite: ^2.3.1
+
+  shared_preferences: ^2.3.2
+
+  flutter_local_notifications: ^17.1.2
+  flutter_timezone: ^1.0.8
+  timezone: ^0.9.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  integration_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+  test: ^1.25.2
+  mocktail: ^1.0.4
+
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo-app.png"
+  remove_alpha_ios: true
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Poppins-Thin.ttf
+          weight: 100
+
+  assets:
+    - assets/images/logo-resto.png
+    - assets/images/logo-app.png
+    - assets/images/food.png
+    - assets/images/drink.png
